@@ -1,4 +1,4 @@
-absl-py==0.13.0
+absl-py==2.1.0
 biopython==1.79
 chex==0.0.7
 dm-haiku==0.0.4
